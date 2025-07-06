@@ -4,13 +4,13 @@
 # In[1]:
 
 
-get_ipython().system('pip install mediapipe opencv-python')
+# get_ipython().system('pip install mediapipe opencv-python')
 
 
 # In[3]:
 
 
-get_ipython().system('pip install jupyter streamlit')
+# get_ipython().system('pip install jupyter streamlit')
 
 
 # In[ ]:
